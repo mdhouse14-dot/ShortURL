@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Maven
+target/
+
+# App runtime data
+data.json
+.user_uuid
+
+# OS
+.DS_Store
+Thumbs.db
